@@ -1,3 +1,5 @@
 # link
 https://disk.yandex.ru/d/7i5XTKIKVg5UUg/DeepFaceLive
 https://developer.download.nvidia.com/compute/cuda/11.7.0/local_installers/cuda_11.7.0_516.01_windows.exe
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHY1ZnNWbXh6WFZTbS1IVjBSbDNkVmY4TE9jd3xBQ3Jtc0tuUUp0UkpJZmZqVWdjUkJFTVRyd0FlZnRJbVZzLXZGREdPc0VJMmEzZzlYUVV4c0gxTW0wUkhoNlFUOTBKdXBmYkZSSHFEZjNHZlRNeWl6YzVySExBekNMRHJaOTBoWW8tQ25XcnN2VW9tM1Nzb2VVQQ&q=https%3A%2F%2Fwww.msi.com%2FLanding%2Fafterburner&v=wEhlKK5qKXo
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGJrbXBiVFpBdUhzbzVsdnVYQ19MbzNlbzhPUXxBQ3Jtc0tucE5WTXpONGJoY2w0RlFrazNsdnhxZ0x5WTlfVjhfbEt2MzlNdnhEaHBHdXYtLWJmdWtHSWlwZldTMFZIZERINjVrbHFlNWpoRndlMEhSZjJib3NGcHpNSnRuOWJjYUtSYVVEM05nRFpVaEJpRzZxWQ&q=https%3A%2F%2Fgeeks3d.com%2Ffurmark%2Fkombustor%2F&v=wEhlKK5qKXo
